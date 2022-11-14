@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guochenmeinian
-- 👀 I’m interested in software development and data science
-- 🌱 I’m currently learning front-end/back-end development
-- 📫 My Email: guo.2034@osu.edu
+Greetings 👋
+Just being happy and trying to be a little better every day :)
+
+Email: guo.2034@osu.edu
