@@ -8,7 +8,7 @@
 
 ### 👨‍🚒 About me
 
-Welcome to see my projects
+Welcome to see my projects and [blog](https://main--guochenmeinian.netlify.app/about/)
   - [full stack e-commerce application in MERN tech stack (front-end)](https://github.com/guochenmeinian/MERN-Project-Frontend)
   - [full stack e-commerce application in MERN tech stack (back-end)](https://github.com/guochenmeinian/MERN-Project-Backend)
-  - [blog](https://main--guochenmeinian.netlify.app/about/)
+
