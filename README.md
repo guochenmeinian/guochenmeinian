@@ -11,4 +11,4 @@
 Welcome to see my projects
   - [full stack e-commerce application in MERN tech stack (front-end)](https://github.com/guochenmeinian/MERN-Project-Frontend)
   - [full stack e-commerce application in MERN tech stack (back-end)](https://github.com/guochenmeinian/MERN-Project-Backend)
-  - [my blog](https://main--guochenmeinian.netlify.app/about/)
+  - [blog](https://main--guochenmeinian.netlify.app/about/)
