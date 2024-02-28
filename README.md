@@ -1,35 +1,36 @@
+---
+helpful link for icons: https://simpleicons.org/ 
+---
 # Hi there! 👋
 <p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href="https://instagram.com/__arist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chenmeinian_guo" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/guochenmeinian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chenmeinian_guo" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/Arist#3898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="chenmeinian_guo" height="40" width="30" /></a>&nbsp;
+<a href="guochenmeinian.io"><img align="center" alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I’m currently a first-year computer science graduate student studying at [New York University](https://cs.nyu.edu) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write blogs at my personal [website](https://main--guochenmeinian.netlify.app/about/)
-- 💻 I use: **.py**, **.js**, **.java**, **.cpp**
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
+- 💻 I use (this semester): **.py**, **.js**, **.cpp**
+- 📖 I am actively finding an internship in the fields of machine learning and software engineering
 - 💬 Talk to me about music, AI, finance, silicon valley & startups
 - 👯 Please feel free to reach out at guochenmeinian@nyu.edu
 - ⚡ Pronouns: He/His/Him
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="java" width="65" height="65"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="java" width="65" height="65"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="java" width="65" height="65"/> 
 </p>
 
 ---
