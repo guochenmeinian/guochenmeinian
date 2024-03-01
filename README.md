@@ -8,9 +8,10 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I’m currently a first-year computer science graduate student studying at [New York University](https://cs.nyu.edu) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I’m currently a Computer Science Graduate student studying at ***New York University***
+- 🔭 I completed my Bachelor of Science in Computer Science at ***the Ohio State University***
 - 📝 I regulary write blogs at my personal [website](https://main--guochenmeinian.netlify.app/about/)
-- 💻 I use (this semester): **.py**, **.js**, **.cpp**
+- 💻 I use (this semester): **.py**, **.ipynb**, **.js**, **.cpp**
 - 📖 I am actively finding an internship in the fields of machine learning and software engineering
 - 💬 Talk to me about music, AI, finance, silicon valley & startups
 - 👯 Please feel free to reach out at guochenmeinian@nyu.edu
@@ -36,5 +37,3 @@
 ![Chenmeinian's github stats](https://github-readme-stats.vercel.app/api?username=guochenmeinian&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guochenmeinian&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guochenmeinian&theme=dark)](https://git.io/streak-stats)
-
-⏳ **Year Progress** { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.86 % as on ⏰ 27-Feb-2024
