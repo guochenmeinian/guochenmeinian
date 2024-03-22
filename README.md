@@ -8,7 +8,6 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I’m currently a Computer Science Graduate student studying at ***New York University***
 - 🔭 I completed my Bachelor of Science in Computer Science at ***the Ohio State University***
 - 📝 I regulary write blogs at my personal [website](https://guochenmeinian.io/)
 - 💻 I use (this semester): **.py**, **.ipynb**, **.js**, **.cpp**
