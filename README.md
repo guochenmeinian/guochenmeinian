@@ -38,7 +38,9 @@
 
 ![Chenmeinian's github stats](https://github-readme-stats.vercel.app/api?username=guochenmeinian&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true&nocache=12345) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guochenmeinian&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php&nocache=12345)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=guochenmeinian&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guochenmeinian&theme=dark&nocache=12345)](https://git.io/streak-stats)
 
