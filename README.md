@@ -41,6 +41,5 @@
 <p align="left">
 <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=guochenmeinian&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guochenmeinian&theme=dark&nocache=12345)](https://git.io/streak-stats)
-
+### Views
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
