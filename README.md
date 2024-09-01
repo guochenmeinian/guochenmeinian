@@ -9,11 +9,11 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏫 I am currently a Master's student at [NYU Courant](https://cims.nyu.edu/dynamic) studying Computer Science. I completed my Bachelor of Science in Computer and Information Science at [the Ohio State University](https://www.osu.edu)
-- 🔭 I am doing an internship this summer at [Bilibili](https://www.bilibili.com/), also known as Chinese Youtube.
+- 🔭 I did an internship this summer at [Bilibili](https://www.bilibili.com/), also known as Chinese Youtube.
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/)
 - 💻 I recently use: **.cpp**, **.py**, **.ipynb**, **.js**
-- 👯 I’m looking to collaborate on web dev and all the fun stuff
-- 📖 I am actively finding an internship in the fields of software engineering
+- 👯 I’m looking to collaborate on LLM, web dev, music and all the fun stuff
+- 📖 I am actively finding an internship in the fields of machine learning and software engineering
 - 💬 Talk to me about music, technology, finance, startups, life in NYC
 - 👯 Please feel free to reach out at guochenmeinian@nyu.edu
 - ⚡ Pronouns: He/His/Him
