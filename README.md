@@ -16,7 +16,6 @@
 - 📖 I am actively finding an internship in the fields of machine learning and software engineering
 - 💬 Talk to me about music, technology, startups, life in NYC
 - 👯 Please feel free to reach out at guochenmeinian@nyu.edu
-- ⚡ Pronouns: He/His/Him
 
 ---
 
