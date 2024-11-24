@@ -11,7 +11,7 @@
 - 🏫 I am currently a Master's student at [NYU Courant](https://cims.nyu.edu/dynamic) studying Computer Science. I completed my Bachelor of Science in Computer and Information Science at [the Ohio State University](https://www.osu.edu)
 - 🔭 I did an internship this summer at [Bilibili](https://www.bilibili.com/), also known as Chinese Youtube.
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
-- 💻 I'm currently learning machine learning and distributed system, and plan to take refineforcement learning, DevOps, and multicore processors architecture next semester.
+- 💻 I'm currently learning machine learning and distributed system. I plan to take refineforcement learning, DevOps, and multicore processors architecture next semester.
 - 👯 I’m looking to collaborate on coding competition, project, music, etc.
 - 📖 I am actively finding an internship in the fields of machine learning and software engineering
 - 💬 Talk to me about music, technology, startups, life in NYC
