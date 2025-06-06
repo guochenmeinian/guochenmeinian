@@ -11,10 +11,10 @@
 - 🏫 I am currently a Master's student at [NYU Courant](https://cims.nyu.edu/dynamic) studying Computer Science. I completed my Bachelor of Science in Computer and Information Science at [the Ohio State University](https://www.osu.edu)
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
 - 🔭 Last summer, I interned as a Software Engineer at Bilibili, often referred to as the "YouTube of China." This summer, I am seeking an internship focused on Machine Learning Engineering.
-- 💻 This semester, I took courses in LLMs, Reinforcement Learning, and DevOps, and worked on related projects including:
-  - Building a multi-agent RL system for collaborative gameplay: [Link](https://guochenmeinian.github.io/bomberland_rl_report/).
-  - Developing an automated peer-review generator by fine-tuning LLMs: [Link](https://github.com/guochenmeinian/llm-review-sys).
-  - Deploying a microservice e-commerce system with CI/CD and Kubernetes: [Link](https://github.com/CSCI-GA-2820-SP25-001/products).
+- 💻 Some projects I built recently:
+  - Multi-agent project for google-adk-hackathon: [Link](https://github.com/guochenmeinian/TripWeaver).
+  - Automated peer-review generator by fine-tuning LLMs: [Link](https://github.com/guochenmeinian/llm-review-sys).
+  - Microservice e-commerce system with CI/CD and Kubernetes: [Link](https://github.com/CSCI-GA-2820-SP25-001/products).
 
 - 👯 I’m looking to collaborate on coding competition, project, music, etc.
 - 📖 I am actively finding an internship in the fields of machine learning and software engineering.
