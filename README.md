@@ -10,9 +10,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏫 I am currently a Master's student at [NYU Courant](https://cims.nyu.edu/dynamic) studying Computer Science. I completed my Bachelor of Science in Computer and Information Science at [the Ohio State University](https://www.osu.edu)
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
-- 🔭 Last summer, I interned as a Software Engineer at Bilibili, often referred to as the "YouTube of China." This summer, I am seeking an internship focused on Machine Learning Engineering.
 - 💻 Some projects I built recently:
-  - Multi-agent project for google-adk-hackathon: [Link](https://github.com/guochenmeinian/TripWeaver).
+  - Intelligent QA system built to learn RAG and Agent: [Link](https://github.com/guochenmeinian/rag-agent/).
   - Automated peer-review generator by fine-tuning LLMs: [Link](https://github.com/guochenmeinian/llm-review-sys).
   - Microservice e-commerce system with CI/CD and Kubernetes: [Link](https://github.com/CSCI-GA-2820-SP25-001/products).
 
