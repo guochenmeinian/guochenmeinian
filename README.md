@@ -12,7 +12,7 @@
 - 🏫 I’m a Master’s student at [NYU Courant](https://cims.nyu.edu/dynamic), majoring in Computer Science, graduating in **Dec 2025**. Previously earned my B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).   
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).  
 - 💼 Internship Experience:
-  - **Machine Learning Engineer Intern** @ [Tezign](https://www.tezign.com/) – focused on LLM applications (Summer 2025).
+  - **Machine Learning Engineer Intern** @ [Tezign](https://en.tezign.com/) – focused on LLM applications (Summer 2025).
   - **Software Engineer Intern** @ [Bilibili](https://ir.bilibili.com/en/corporate-information/) – worked on video backend infrastructure (Summer 2024).
 - 🛠️ Recent Projects:
   - [RAG-based QA System](https://github.com/guochenmeinian/rag-agent): Multi-agent + retrieval-augmented generation.
