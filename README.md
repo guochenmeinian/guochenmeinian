@@ -9,8 +9,7 @@
 
 ### About Me:
 
-- 🏫 I’m a Master’s student at [NYU Courant](https://cims.nyu.edu/dynamic), majoring in Computer Science, graduating in **Dec 2025**. Previously earned my B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).  
-- 📍 Currently based in **Shanghai** (recently returned from NYC).  
+- 🏫 I’m a Master’s student at [NYU Courant](https://cims.nyu.edu/dynamic), majoring in Computer Science, graduating in **Dec 2025**. Previously earned my B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).   
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).  
 - 💼 Internship Experience:
   - **Machine Learning Engineer Intern** @ [Tezign](https://www.tezign.com/) – focused on LLM applications (Summer 2025).
