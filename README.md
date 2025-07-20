@@ -7,17 +7,23 @@
 <a href="http://guochenmeinian.github.io"><img align="center" alt="homepage" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏫 I am currently a Master's student at [NYU Courant](https://cims.nyu.edu/dynamic) studying Computer Science. I completed my Bachelor of Science in Computer and Information Science at [the Ohio State University](https://www.osu.edu)
-- 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
-- 💻 Some projects I built recently:
-  - Intelligent QA system built to learn RAG and Agent: [Link](https://github.com/guochenmeinian/rag-agent/).
-  - Automated peer-review generator by fine-tuning LLMs: [Link](https://github.com/guochenmeinian/llm-review-sys).
-  - Microservice e-commerce system with CI/CD and Kubernetes: [Link](https://github.com/CSCI-GA-2820-SP25-001/products).
+### About Me:
 
-- 👯 I’m looking to collaborate on coding competition, project, music, etc.
-- 📖 I am actively finding an internship in the fields of machine learning and software engineering.
-- 💬 Talk to me about music, technology, startups, life in NYC.
+- 🏫 I’m a Master’s student at [NYU Courant](https://cims.nyu.edu/dynamic), majoring in Computer Science, graduating in **Dec 2025**. Previously earned my B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).  
+- 📍 Currently based in **Shanghai** (recently returned from NYC).  
+- 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).  
+- 💼 Internship Experience:
+  - **Machine Learning Engineer Intern** @ [Tezign](https://www.tezign.com/) – focused on LLM applications (Summer 2025).
+  - **Software Engineer Intern** @ [Bilibili](https://ir.bilibili.com/en/corporate-information/) – worked on video backend infrastructure (Summer 2024).
+- 🛠️ Recent Projects:
+  - [RAG-based QA System](https://github.com/guochenmeinian/rag-agent): Multi-agent + retrieval-augmented generation.
+  - [LLM-based Peer Review Generator](https://github.com/guochenmeinian/llm-review-sys): Fine-tuning for automated academic reviews.
+  - [E-commerce Microservices](https://github.com/CSCI-GA-2820-SP25-001/products): CI/CD and Kubernetes-based scalable backend.
+
+- 🎯 Currently seeking **Fall 2025 internships** and **New Grad roles starting 2026**, in **machine learning engineering** or **backend software engineering**.  
+- 👯 Always open to collaborate on coding competitions, side projects, or music.  
+- 💬 Talk to me about music, technology, startups, and life in **NYC/Shanghai**.
+
 - 👯 Please feel free to reach out at guochenmeinian@nyu.edu
 
 ---
