@@ -13,6 +13,7 @@
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
   
 - 🛠️ Recent Projects:
+  - [CS336-Assignment5](https://github.com/guochenmeinian/cs336-assignment5): Fine-tuned a small LLM for math reasoning with alignment and RL.
   - [RAG-based QA System](https://github.com/guochenmeinian/rag-agent): Multi-agent + retrieval-augmented generation.
   - [LLM-based Peer Review Generator](https://github.com/guochenmeinian/llm-review-sys): Fine-tuning for automated academic reviews.
   - [E-commerce Microservices](https://github.com/CSCI-GA-2820-SP25-001/products): CI/CD and Kubernetes-based scalable backend.
