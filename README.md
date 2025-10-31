@@ -18,9 +18,9 @@
   - [LLM-based Peer Review Generator](https://github.com/guochenmeinian/llm-review-sys): Fine-tuning for automated academic reviews.
   - [E-commerce Microservices](https://github.com/CSCI-GA-2820-SP25-001/products): CI/CD and Kubernetes-based scalable backend.
 
-- 🎯 Currently seeking **Fall 2025 internships** and **New Grad roles starting 2026**, in **machine learning engineering** or **backend software engineering**.  
+- 🎯 Currently seeking **New Grad roles starting 2026**, in **llm/ml** or **software engineering**.  
 - 👯 Always open to collaborate on coding competitions, side projects, or music.  
-- 💬 Talk to me about music, technology, startups, and life in **NYC/Shanghai**.
+- 💬 Talk to me about tech, music, and life in **NYC/Shanghai**.
 
 - 👯 Please feel free to reach out at guochenmeinian@nyu.edu
 
