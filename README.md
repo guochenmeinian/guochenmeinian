@@ -11,12 +11,6 @@
 
 - 🏫 I’m a Master’s student at [NYU Courant](https://cims.nyu.edu/dynamic), majoring in Computer Science, graduating in **Dec 2025**. Previously earned my B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).   
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
-  
-- 🛠️ Recent Projects:
-  - [CS336-Assignment5](https://github.com/guochenmeinian/cs336-assignment5): Fine-tuned a small LLM for math reasoning with alignment and RL.
-  - [RAG-based QA System](https://github.com/guochenmeinian/rag-agent): Multi-agent + retrieval-augmented generation.
-  - [LLM-based Peer Review Generator](https://github.com/guochenmeinian/llm-review-sys): Fine-tuning for automated academic reviews.
-  - [E-commerce Microservices](https://github.com/CSCI-GA-2820-SP25-001/products): CI/CD and Kubernetes-based scalable backend.
 
 - 🎯 Currently seeking **New Grad roles starting 2026**, in **llm/ml** or **software engineering**.  
 - 👯 Always open to collaborate on coding competitions, side projects, or music.  
