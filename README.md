@@ -11,6 +11,7 @@
 
 - 🏫 I’m a Master’s student at [NYU Courant](https://cims.nyu.edu/dynamic), majoring in Computer Science, graduating in **Dec 2025**. Previously earned my B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).   
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
+- 📒 I share my study notes [here](https://www.notion.so/2b2133c613a180549320d03039420dbe?v=2b2133c613a180a1834d000c38fe74c9).
 
 - 🎯 Currently seeking **New Grad roles starting 2026**, in **llm/ml** or **software engineering**.  
 - 👯 Always open to collaborate on coding competitions, side projects, or music.  
