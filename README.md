@@ -11,7 +11,7 @@
 
 - 🏫 I’m a New Grad Machine Learning Engineer. I recently earned my M.S. in Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic) (**Jan 2026**) and I also hold a B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).   
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
-- 📒 I share my study notes [here](https://www.notion.so/2b2133c613a180549320d03039420dbe?v=2b2133c613a180a1834d000c38fe74c9).
+- 📒 I wrote this [website](https://guochenmeinian.github.io/improv_tool/) to practice guitar.
 
 - 👯 Always open to collaborate on coding competitions, side projects, or music.  
 - 💬 Talk to me about tech, music, and life in **Shanghai**.
