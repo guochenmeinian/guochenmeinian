@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 🏫 I’m a New Grad Machine Learning Engineer. I recently earned my M.S. in Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic) (**Jan 2026**) and I also hold a B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).   
+- 🏫 I’m a New Grad Machine Learning Engineer at [TCL](https://www.linkedin.com/company/tclpage/). I recently earned my M.S. in Computer Science at [NYU Courant](https://cims.nyu.edu/dynamic) (**Jan 2026**) and I also hold a B.S. in Computer and Information Science at [The Ohio State University](https://www.osu.edu).   
 - 📝 I (sometimes) write blogs at my personal [website](https://guochenmeinian.github.io/).
 - 📒 I wrote this [website](https://guochenmeinian.github.io/improv_tool/) to practice guitar.
 
